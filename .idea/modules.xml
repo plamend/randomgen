@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Randomgen.iml" filepath="$PROJECT_DIR$/Randomgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/randomgen/randomgen.iml" filepath="$PROJECT_DIR$/randomgen/randomgen.iml" />
+    </modules>
+  </component>
+</project>
+
